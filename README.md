@@ -5,3 +5,9 @@ Go to [Wiki](https://github.com/lucija-blazevski/Habit-Project-Guide/wiki) to ac
 
 
 Go to [To-do list](https://github.com/users/lucija-blazevski/projects/1) to track progress.
+
+
+
+## Tasks
+#### Two-step: https://run.pavlovia.org/lblazev_uva/two_step_task
+#### Avoidance habit task: https://run.pavlovia.org/lblazev_uva/aht_money
