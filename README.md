@@ -9,5 +9,5 @@ Go to [To-do list](https://github.com/users/lucija-blazevski/projects/1) to trac
 
 
 ## Tasks
-#### Two-step: https://run.pavlovia.org/lblazev_uva/two_step_task
-#### Avoidance habit task: https://run.pavlovia.org/lblazev_uva/aht_money
+#### Two-step (money): https://run.pavlovia.org/lblazev_uva/two_step_task
+#### Avoidance habit task (money): https://run.pavlovia.org/lblazev_uva/aht_money
